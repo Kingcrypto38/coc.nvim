@@ -107,7 +107,7 @@
     "https-proxy-agent": "^5.0.0",
     "iconv-lite": "^0.6.3",
     "jsonc-parser": "^3.0.0",
-    "marked": "^4.3.0",
+    "marked": "^11.1.0",
     "minimatch": "^5.1.0",
     "semver": "^7.5.4",
     "strip-ansi": "^6.0.0",
